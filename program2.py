@@ -1,0 +1,10 @@
+a=2
+b=3
+c=a+b
+print(c)
+a=198
+b=45
+c=768
+d=65
+e=a+b-c+d
+print(e)

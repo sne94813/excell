@@ -1,0 +1,24 @@
+Today we have learnt
+-how to create a github account, which is vey useful to upload our projects.
+  We created the github acount by entering our username,passwords
+  and emailid,and we created the account.
+
+-Next we created our own directory
+    we used the function mkdr(make directry) and cd(change directry)
+    to create our own directry
+    
+
+ program with python
+
+   1.printing your name
+
+>>>print("name")
+print is a function that prints the text written in a backet with
+
+ 2.addition
+
+ a=2
+ b=2
+ c=a+b
+ print(c)
+
