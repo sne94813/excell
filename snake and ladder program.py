@@ -1,6 +1,6 @@
 import random
 count=0
-while(count<=100):
+while(count<100):
     n=input("press r to roll a dice")
     if(n=='r'):
         r=random.randint(1,6)
@@ -40,7 +40,12 @@ while(count<=100):
     elif(count==93):
         count=64
         print("aah snake bite",count)
-    elif(count>=100):
-        print("YOU ARE THE WINNER")
+    elif(count==100):
+        print("you are the winner")
+    elif(count>100):
+        count=count-r
+        print("try again")
     else:
-        print("continue the game")
+        print("continue playing")
+    
+       
