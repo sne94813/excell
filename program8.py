@@ -15,3 +15,4 @@ print(E)
 z=L=["sneha",34,3,4,2]
 y=L*2
 print(y)
+
